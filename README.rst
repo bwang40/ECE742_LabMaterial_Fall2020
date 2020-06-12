@@ -15,7 +15,6 @@ Directory Structure
   - Documents: These are some very useful documentations for the lab
   - Labs_CheatSheet: Contains code for the labs
   - VHDL Modules: Useful VHDL modules that can be used in the lab
-  - FIRfilter: For those who are already familiar with the FPGA and VHDL, you can skip lab1/2/8/9 and follow the README.rst in this folder.
 
 Labs
 ======================

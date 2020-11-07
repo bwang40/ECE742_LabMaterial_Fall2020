@@ -15,7 +15,7 @@ Port (  A : in STD_LOGIC_VECTOR(3 downto 0);
 end uniCodeConv;
 architecture Behavioral of uniCodeConv is
 begin
-    process(sel)
+    process(sel,A)
     begin
         case sel is
             when '0' => Y <= std_logic_vector(to_unsigned(to_integer(unsigned( A )) + 3, 4));

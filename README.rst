@@ -1,5 +1,5 @@
 ********************************************************
-ECE742 Lab Materials (Summer 2020)
+ECE742 Lab Materials (Fall 2020)
 ********************************************************
 
 .. contents:: Table of Contents
@@ -12,13 +12,13 @@ This repository is for students to get access to the `ECE742` Lab materials.
 Directory Structure
 =======================
   - BoardSupportPackages: This is to install the board support packages for the NEXYS DDR4 board for VIVADO software tool. Follow the instruction in https://reference.digilentinc.com/vivado/installing-vivado/start (This step is not required since we are only doing the simulation this semester due to the COVID-19)
-  - Documents: These are some very useful documentations for the lab
-  - Labs_CheatSheet: Contains code for the labs
+  - Documents: Some very useful documentations for the lab
+  - Labs_CheatSheet: Codes for the labs
   - VHDL Modules: Useful VHDL modules that can be used in the lab
 
 Labs
 ======================
-These are short introduction of each lab.
+Short introduction of each lab.
 
 lab 1
 ----------
